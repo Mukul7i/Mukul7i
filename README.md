@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mukul7i
-- change lets see
+-  journey to a web developer
 - 
 
